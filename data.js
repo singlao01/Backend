@@ -1,6 +1,6 @@
 const data = [
     {
-        name: "Punal",
+        name: "Kizer",
         age: 1,
         section: "b"
     },
