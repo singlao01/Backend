@@ -10,4 +10,4 @@ db.students.insertMany([
     { name: "Ivan", age: 22, marks: 90, grade: "A+" },
     { name: "Judy", age: 18, marks: 75, grade: "B" }
  ])
- git add .
+ 
